@@ -1,0 +1,412 @@
+{
+  "copies": [
+    {
+      "file": "data/synthetic/observed_gravity_clean.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/experiments_halved/data/observed_gravity_clean.grd",
+      "sha256": "da7b539567191a9f5cbfcb51a8126daf0e19d9458f353df79de3fe0eb3689a65",
+      "source_sha256": "da7b539567191a9f5cbfcb51a8126daf0e19d9458f353df79de3fe0eb3689a65",
+      "copy_identical": true
+    },
+    {
+      "file": "data/synthetic/obs_noise_seed100.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/experiments_halved/data/obs_noise_seed100.grd",
+      "sha256": "b8ee914b647a54a47e1a91060362a50634018b198370e6c3717d64efb2662210",
+      "source_sha256": "b8ee914b647a54a47e1a91060362a50634018b198370e6c3717d64efb2662210",
+      "copy_identical": true
+    },
+    {
+      "file": "data/synthetic/obs_noise_seed101.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/experiments_halved/data/obs_noise_seed101.grd",
+      "sha256": "2f6ca2cda5fa9327fa8fd2b8ea75eb893253cd22623c4d6246a1f8686f807c2d",
+      "source_sha256": "2f6ca2cda5fa9327fa8fd2b8ea75eb893253cd22623c4d6246a1f8686f807c2d",
+      "copy_identical": true
+    },
+    {
+      "file": "data/synthetic/obs_noise_seed102.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/experiments_halved/data/obs_noise_seed102.grd",
+      "sha256": "ad49ee72aaeca76ee232dd6396ccf61dc1d3bcccd6594adbfaa1238b4f700d8e",
+      "source_sha256": "ad49ee72aaeca76ee232dd6396ccf61dc1d3bcccd6594adbfaa1238b4f700d8e",
+      "copy_identical": true
+    },
+    {
+      "file": "data/synthetic/obs_noise_seed103.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/experiments_halved/data/obs_noise_seed103.grd",
+      "sha256": "575f0b078c86c68f58f6eed23c274d88ca42f822c0bc328becdf59d2fa32770c",
+      "source_sha256": "575f0b078c86c68f58f6eed23c274d88ca42f822c0bc328becdf59d2fa32770c",
+      "copy_identical": true
+    },
+    {
+      "file": "data/synthetic/obs_noise_seed104.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/experiments_halved/data/obs_noise_seed104.grd",
+      "sha256": "f204fee676d0aecaf9d8eb71c988b137a1d79403082e7c96bba6d3ffd1f999b6",
+      "source_sha256": "f204fee676d0aecaf9d8eb71c988b137a1d79403082e7c96bba6d3ffd1f999b6",
+      "copy_identical": true
+    },
+    {
+      "file": "data/synthetic/terrain.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/experiments_halved/data/terrain.grd",
+      "sha256": "0d90497620259e187f0277db9b5687d3d89f6698ccfeb007ec282cf703deb6d4",
+      "source_sha256": "0d90497620259e187f0277db9b5687d3d89f6698ccfeb007ec282cf703deb6d4",
+      "copy_identical": true
+    },
+    {
+      "file": "data/synthetic/true_continuation_z200.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/experiments_halved/data/true_continuation_z200.grd",
+      "sha256": "3ee17ff84f40e1c9ce16e9f2fac7aff373c6cabd96b44a53b8311da68aff94fc",
+      "source_sha256": "3ee17ff84f40e1c9ce16e9f2fac7aff373c6cabd96b44a53b8311da68aff94fc",
+      "copy_identical": true
+    },
+    {
+      "file": "data/synthetic/true_continuation_z400.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/experiments_halved/data/true_continuation_z400.grd",
+      "sha256": "3fbdaeb5be9183e83274a7242830d806d5b4dc2e3abc32007fbe542868a82362",
+      "source_sha256": "3fbdaeb5be9183e83274a7242830d806d5b4dc2e3abc32007fbe542868a82362",
+      "copy_identical": true
+    },
+    {
+      "file": "data/synthetic/true_continuation_z600.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/experiments_halved/data/true_continuation_z600.grd",
+      "sha256": "b0d4a36d0f854f3d98fe554bd359babec4d351cdf7b442477670e22f47981694",
+      "source_sha256": "b0d4a36d0f854f3d98fe554bd359babec4d351cdf7b442477670e22f47981694",
+      "copy_identical": true
+    },
+    {
+      "file": "data/synthetic/true_continuation_z800.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/experiments_halved/data/true_continuation_z800.grd",
+      "sha256": "b668cb54ba3e6e96ddaeb7920b51b9270f1f1c6da633f1ade0699fd2e0f18770",
+      "source_sha256": "b668cb54ba3e6e96ddaeb7920b51b9270f1f1c6da633f1ade0699fd2e0f18770",
+      "copy_identical": true
+    },
+    {
+      "file": "data/synthetic/z200.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/experiments_halved/data/z200.grd",
+      "sha256": "669a53f7515acd6f60bd34a5252ed78fddd20a267c2deee9075dbbc31312d6c5",
+      "source_sha256": "669a53f7515acd6f60bd34a5252ed78fddd20a267c2deee9075dbbc31312d6c5",
+      "copy_identical": true
+    },
+    {
+      "file": "data/synthetic/z400.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/experiments_halved/data/z400.grd",
+      "sha256": "d2cac60a3782fb6a8f68a2d864aaba2e8ad63bbad3f0584aeba2a9c83ca058b0",
+      "source_sha256": "d2cac60a3782fb6a8f68a2d864aaba2e8ad63bbad3f0584aeba2a9c83ca058b0",
+      "copy_identical": true
+    },
+    {
+      "file": "data/synthetic/z600.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/experiments_halved/data/z600.grd",
+      "sha256": "66351421e11e1e6fab4900d6674aad68a35294a99bed1a907e17ea3cf65b5316",
+      "source_sha256": "66351421e11e1e6fab4900d6674aad68a35294a99bed1a907e17ea3cf65b5316",
+      "copy_identical": true
+    },
+    {
+      "file": "data/synthetic/z800.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/experiments_halved/data/z800.grd",
+      "sha256": "7f2f1b928477ca9929eca0f48388112d390602176dd00292551381727ac8e874",
+      "source_sha256": "7f2f1b928477ca9929eca0f48388112d390602176dd00292551381727ac8e874",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/clean_observed.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/clean_observed.grd",
+      "sha256": "da7b539567191a9f5cbfcb51a8126daf0e19d9458f353df79de3fe0eb3689a65",
+      "source_sha256": "da7b539567191a9f5cbfcb51a8126daf0e19d9458f353df79de3fe0eb3689a65",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/clean_single_stage_fit.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/clean_single_stage_fit.grd",
+      "sha256": "1b9dafe1cfb4af34edb16f57caf987d6aebb1710cf25d9f94675c1b7371e92b9",
+      "source_sha256": "1b9dafe1cfb4af34edb16f57caf987d6aebb1710cf25d9f94675c1b7371e92b9",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/clean_single_stage_z200.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/clean_single_stage_z200.grd",
+      "sha256": "9040ce4baa2f730ba91d617d3b14c5dd3721f6ca8f6a9f9401bc00fc7b210bd9",
+      "source_sha256": "9040ce4baa2f730ba91d617d3b14c5dd3721f6ca8f6a9f9401bc00fc7b210bd9",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/clean_single_stage_z400.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/clean_single_stage_z400.grd",
+      "sha256": "a8e7191bff0cad70d65ca8ace42145397338a3c811d27d95b7d3fc5c4454d31c",
+      "source_sha256": "a8e7191bff0cad70d65ca8ace42145397338a3c811d27d95b7d3fc5c4454d31c",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/clean_single_stage_z600.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/clean_single_stage_z600.grd",
+      "sha256": "9691e539d261c67ecf4385971ffdb9887f8d8d1aba6c14b996cc31392b65ca3f",
+      "source_sha256": "9691e539d261c67ecf4385971ffdb9887f8d8d1aba6c14b996cc31392b65ca3f",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/clean_single_stage_z800.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/clean_single_stage_z800.grd",
+      "sha256": "d4f4a163fe970d4d27432f435f58f2854a41f5a42cb834a9993ff810bea3476b",
+      "source_sha256": "d4f4a163fe970d4d27432f435f58f2854a41f5a42cb834a9993ff810bea3476b",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/clean_truth_z200.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/clean_truth_z200.grd",
+      "sha256": "3ee17ff84f40e1c9ce16e9f2fac7aff373c6cabd96b44a53b8311da68aff94fc",
+      "source_sha256": "3ee17ff84f40e1c9ce16e9f2fac7aff373c6cabd96b44a53b8311da68aff94fc",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/clean_truth_z400.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/clean_truth_z400.grd",
+      "sha256": "3fbdaeb5be9183e83274a7242830d806d5b4dc2e3abc32007fbe542868a82362",
+      "source_sha256": "3fbdaeb5be9183e83274a7242830d806d5b4dc2e3abc32007fbe542868a82362",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/clean_truth_z600.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/clean_truth_z600.grd",
+      "sha256": "b0d4a36d0f854f3d98fe554bd359babec4d351cdf7b442477670e22f47981694",
+      "source_sha256": "b0d4a36d0f854f3d98fe554bd359babec4d351cdf7b442477670e22f47981694",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/clean_truth_z800.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/clean_truth_z800.grd",
+      "sha256": "b668cb54ba3e6e96ddaeb7920b51b9270f1f1c6da633f1ade0699fd2e0f18770",
+      "source_sha256": "b668cb54ba3e6e96ddaeb7920b51b9270f1f1c6da633f1ade0699fd2e0f18770",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/clean_two_stage_error_z200.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/clean_two_stage_error_z200.grd",
+      "sha256": "2f9d3a89b835e32ce83e329b9d560b86e73bd293d99315f3ae2423c73ffdeaf2",
+      "source_sha256": "2f9d3a89b835e32ce83e329b9d560b86e73bd293d99315f3ae2423c73ffdeaf2",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/clean_two_stage_error_z400.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/clean_two_stage_error_z400.grd",
+      "sha256": "735ac462f37ce5f20989307236e1d7ab8e1724bad1b78581d92258cda30912be",
+      "source_sha256": "735ac462f37ce5f20989307236e1d7ab8e1724bad1b78581d92258cda30912be",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/clean_two_stage_error_z600.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/clean_two_stage_error_z600.grd",
+      "sha256": "1271752396914c0881313a93d1e59cdd33d685317a76cd2ed548bff22cbba95e",
+      "source_sha256": "1271752396914c0881313a93d1e59cdd33d685317a76cd2ed548bff22cbba95e",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/clean_two_stage_error_z800.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/clean_two_stage_error_z800.grd",
+      "sha256": "a7cf69e6b62b74a216b95b2a00865e462b94b0a167d902b68f74c23a6495e249",
+      "source_sha256": "a7cf69e6b62b74a216b95b2a00865e462b94b0a167d902b68f74c23a6495e249",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/clean_two_stage_fit.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/clean_two_stage_fit.grd",
+      "sha256": "57d98cf8959120e7c3224b8644ad092c7bd117a34d398746c4f07fd26dc3f00e",
+      "source_sha256": "57d98cf8959120e7c3224b8644ad092c7bd117a34d398746c4f07fd26dc3f00e",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/clean_two_stage_residual.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/clean_two_stage_residual.grd",
+      "sha256": "8ea911880b5e78e15904348386a8f0ff6193b0144aada6176ab14a744980603e",
+      "source_sha256": "8ea911880b5e78e15904348386a8f0ff6193b0144aada6176ab14a744980603e",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/clean_two_stage_z200.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/clean_two_stage_z200.grd",
+      "sha256": "f7747e085e29bff6908c0781fbd518074d77cc48b81757595b563b822f1570a7",
+      "source_sha256": "f7747e085e29bff6908c0781fbd518074d77cc48b81757595b563b822f1570a7",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/clean_two_stage_z400.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/clean_two_stage_z400.grd",
+      "sha256": "72bf2cb55833800dec663ef71638ef4869e212e1cfca5a275e1a0b88e46b8e45",
+      "source_sha256": "72bf2cb55833800dec663ef71638ef4869e212e1cfca5a275e1a0b88e46b8e45",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/clean_two_stage_z600.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/clean_two_stage_z600.grd",
+      "sha256": "b062d7058df22874373c4f94733ab579804bedd99c43c36e135093974d1ac379",
+      "source_sha256": "b062d7058df22874373c4f94733ab579804bedd99c43c36e135093974d1ac379",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/clean_two_stage_z800.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/clean_two_stage_z800.grd",
+      "sha256": "5caaa8489129d2f6478d26d7135f444e24b282bf1aa14fd158da67ec23db91a1",
+      "source_sha256": "5caaa8489129d2f6478d26d7135f444e24b282bf1aa14fd158da67ec23db91a1",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/noise_observed.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/noise_observed.grd",
+      "sha256": "bccdbe40025b0640b8d00fc4ae95806aa0b937cec0472e22d1583fc9b6463147",
+      "source_sha256": "bccdbe40025b0640b8d00fc4ae95806aa0b937cec0472e22d1583fc9b6463147",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/noise_truth_z200.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/noise_truth_z200.grd",
+      "sha256": "3ee17ff84f40e1c9ce16e9f2fac7aff373c6cabd96b44a53b8311da68aff94fc",
+      "source_sha256": "3ee17ff84f40e1c9ce16e9f2fac7aff373c6cabd96b44a53b8311da68aff94fc",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/noise_truth_z400.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/noise_truth_z400.grd",
+      "sha256": "3fbdaeb5be9183e83274a7242830d806d5b4dc2e3abc32007fbe542868a82362",
+      "source_sha256": "3fbdaeb5be9183e83274a7242830d806d5b4dc2e3abc32007fbe542868a82362",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/noise_truth_z600.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/noise_truth_z600.grd",
+      "sha256": "b0d4a36d0f854f3d98fe554bd359babec4d351cdf7b442477670e22f47981694",
+      "source_sha256": "b0d4a36d0f854f3d98fe554bd359babec4d351cdf7b442477670e22f47981694",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/noise_truth_z800.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/noise_truth_z800.grd",
+      "sha256": "b668cb54ba3e6e96ddaeb7920b51b9270f1f1c6da633f1ade0699fd2e0f18770",
+      "source_sha256": "b668cb54ba3e6e96ddaeb7920b51b9270f1f1c6da633f1ade0699fd2e0f18770",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/noise_two_stage_error_z200.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/noise_two_stage_error_z200.grd",
+      "sha256": "bfbd97f621eef7a40ccd7b5bb36fe7dda33b4bff821c370fdb1162b82c54d37f",
+      "source_sha256": "bfbd97f621eef7a40ccd7b5bb36fe7dda33b4bff821c370fdb1162b82c54d37f",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/noise_two_stage_error_z400.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/noise_two_stage_error_z400.grd",
+      "sha256": "9c293e13ac6dd7da31cc8be673643eac364fecb4b4db4bf389ef45f0a71164be",
+      "source_sha256": "9c293e13ac6dd7da31cc8be673643eac364fecb4b4db4bf389ef45f0a71164be",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/noise_two_stage_error_z600.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/noise_two_stage_error_z600.grd",
+      "sha256": "f40e55144dcf16e979ae5a9c209548661942230a348eb6c5350ee750becd44b9",
+      "source_sha256": "f40e55144dcf16e979ae5a9c209548661942230a348eb6c5350ee750becd44b9",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/noise_two_stage_error_z800.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/noise_two_stage_error_z800.grd",
+      "sha256": "969be7c5c05630adc07db103f42cd4836f7f5fe7cf6ae1f4f9d8ec50b65accbe",
+      "source_sha256": "969be7c5c05630adc07db103f42cd4836f7f5fe7cf6ae1f4f9d8ec50b65accbe",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/noise_two_stage_fit.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/noise_two_stage_fit.grd",
+      "sha256": "b757ab744381b4ebaf853896eedef3b3e1d573ff04dc669e81659cb95f915a1f",
+      "source_sha256": "b757ab744381b4ebaf853896eedef3b3e1d573ff04dc669e81659cb95f915a1f",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/noise_two_stage_residual.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/noise_two_stage_residual.grd",
+      "sha256": "b980d7044f0fbfa3e0bb81554696303a5ab064709dc1d436f1db4d49cd5cbdcd",
+      "source_sha256": "b980d7044f0fbfa3e0bb81554696303a5ab064709dc1d436f1db4d49cd5cbdcd",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/noise_two_stage_z200.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/noise_two_stage_z200.grd",
+      "sha256": "6af5f896984f48a890c0aa2ed6c55f7d263ba734a24fe627dcba9dd7406338fe",
+      "source_sha256": "6af5f896984f48a890c0aa2ed6c55f7d263ba734a24fe627dcba9dd7406338fe",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/noise_two_stage_z400.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/noise_two_stage_z400.grd",
+      "sha256": "ed3cdda30e1dd616e50479e14dd1c992de889b82b0c43c3fa333235c3f1f6ac7",
+      "source_sha256": "ed3cdda30e1dd616e50479e14dd1c992de889b82b0c43c3fa333235c3f1f6ac7",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/noise_two_stage_z600.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/noise_two_stage_z600.grd",
+      "sha256": "4ee96362c569b84666273ab5a60b859938bbbc61e2495c7f45797c3fe7d5ca63",
+      "source_sha256": "4ee96362c569b84666273ab5a60b859938bbbc61e2495c7f45797c3fe7d5ca63",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/noise_two_stage_z800.grd",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/noise_two_stage_z800.grd",
+      "sha256": "9df1a1252fad64cce7fb194061a1a97b3e92334ccc52b6bc2bb4b2ab90dde4c5",
+      "source_sha256": "9df1a1252fad64cce7fb194061a1a97b3e92334ccc52b6bc2bb4b2ab90dde4c5",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/manuscript/single_layer_full.json",
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/results/single_layer_full.json",
+      "sha256": "19625b1f48e8be3816e79f75c79367edfb34f6e1507bd3f496389d60cc8b1ac3",
+      "source_sha256": "19625b1f48e8be3816e79f75c79367edfb34f6e1507bd3f496389d60cc8b1ac3",
+      "copy_identical": true
+    },
+    {
+      "file": "reference_results/preliminary/multilayer_depth.json",
+      "source": "02 前期研究/前期资料/论文修订工作/v2_20260909/results/multilayer_depth.json",
+      "sha256": "a9a056d7ee88b3df0d6541b40375954f0d62b278756ece62e61a306f591ee595",
+      "source_sha256": "a9a056d7ee88b3df0d6541b40375954f0d62b278756ece62e61a306f591ee595",
+      "copy_identical": true
+    }
+  ],
+  "source_code": [
+    {
+      "source": "02 前期研究/前期资料/论文修订工作/experiments/run_hybrid_fft_exp.py",
+      "source_sha256": "897f55a2cb0b2176d3cf691161261e7c09af3b73c6e2c4f8ac6c57d5145b6529",
+      "derived_file": "src/twostage/operators.py",
+      "derived_sha256": "11f5b91b8f58e4a0f1961b7d297aabf9af431330b54402e2ce9d9854c81bec69"
+    },
+    {
+      "source": "02 前期研究/前期资料/合成模型/gravity_forward/model_b_design.py",
+      "source_sha256": "d417902b5f63f9786fb05a5f3094e1cc1c3ae785ca1f9790db85f41b6a4debfc",
+      "derived_file": "src/twostage/model.py",
+      "derived_sha256": "7e48c5131561b68f5fe488d4de445a93dae987d57631b0579f089b90b73b0dfb"
+    },
+    {
+      "source": "02 前期研究/前期资料/合成模型/gravity_forward/prism_forward.py",
+      "source_sha256": "3b182573f724a4013973aeaa3615f7fce704716980dc3b88a965c11a7a3976c5",
+      "derived_file": "src/twostage/prism_truth.py",
+      "derived_sha256": "64d4bf3452025b78dd5921a63b31944216f635b95c2fe9cab72803864a5292e6"
+    },
+    {
+      "source": "02 前期研究/前期资料/论文修订工作/v2_20260909/experiments_v2.py",
+      "source_sha256": "98c3a74cbd473764b750f2c7fd6054356081122ba58bc8ad3facfdd84d8d6d57",
+      "derived_file": "src/twostage/solver.py",
+      "derived_sha256": "ecf4b622be5ecb620ea8951f29a004b82e62fd977b6dbeb9ec59577d7974d47f"
+    },
+    {
+      "source": "02 前期研究/前期资料/论文修订工作/v4_20260910/single_layer_full.py",
+      "source_sha256": "5fe84bd9f8b9e0ff0558965a58d9bb29f68132533e5f3525f1825c8eab9d20ee",
+      "derived_file": "run_examples.py",
+      "adaptation": "Split into cases; fixed selected layer for clean; isolated outputs; preliminary scan separately retains original 150+40 protocol."
+    }
+  ],
+  "environment_observed": {
+    "python": "3.12.7 | packaged by conda-forge | (main, Oct  4 2024, 15:47:54) [MSC v.1941 64 bit (AMD64)]",
+    "packages": {
+      "numpy": "1.26.4",
+      "scipy": "1.17.1",
+      "numba": "0.63.1",
+      "numba-cuda": null,
+      "llvmlite": "0.46.0"
+    },
+    "system": "Windows-11-10.0.26300-SP0"
+  },
+  "all_copies_identical": true
+}

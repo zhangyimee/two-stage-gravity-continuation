@@ -1,0 +1,146 @@
+[
+  {
+    "source": "02 前期研究/前期资料/论文修订工作/experiments/run_hybrid_fft_exp.py",
+    "target": "src/twostage/operators.py",
+    "functions": [
+      {
+        "name": "_gravity_gz_prism",
+        "start": 71,
+        "end": 79
+      },
+      {
+        "name": "_to_device_cached",
+        "start": 166,
+        "end": 173
+      },
+      {
+        "name": "prism_gz_corner",
+        "start": 211,
+        "end": 218
+      },
+      {
+        "name": "build_bttb_first_column_single",
+        "start": 221,
+        "end": 244
+      },
+      {
+        "name": "FFTOperator",
+        "start": 247,
+        "end": 314
+      },
+      {
+        "name": "build_laplacian_2d",
+        "start": 320,
+        "end": 342
+      },
+      {
+        "name": "read_grd",
+        "start": 429,
+        "end": 444
+      },
+      {
+        "name": "write_grd",
+        "start": 447,
+        "end": 459
+      },
+      {
+        "name": "load_data",
+        "start": 491,
+        "end": 572
+      },
+      {
+        "name": "setup_sources",
+        "start": 575,
+        "end": 616
+      }
+    ]
+  },
+  {
+    "source": "02 前期研究/前期资料/合成模型/gravity_forward/model_b_design.py",
+    "target": "src/twostage/model.py",
+    "functions": [
+      {
+        "name": "build_model_b",
+        "start": 13,
+        "end": 74
+      }
+    ]
+  },
+  {
+    "source": "02 前期研究/前期资料/合成模型/gravity_forward/prism_forward.py",
+    "target": "src/twostage/prism_truth.py",
+    "functions": [
+      {
+        "name": "_prism_gz_kernel",
+        "start": 27,
+        "end": 100
+      },
+      {
+        "name": "_prism_gx_kernel",
+        "start": 103,
+        "end": 154
+      },
+      {
+        "name": "_prism_gy_kernel",
+        "start": 157,
+        "end": 194
+      },
+      {
+        "name": "prism_gravity_all",
+        "start": 197,
+        "end": 247
+      }
+    ]
+  },
+  {
+    "source": "02 前期研究/前期资料/论文修订工作/v2_20260909/experiments_v2.py",
+    "target": "src/twostage/solver.py",
+    "functions": [
+      {
+        "name": "_fwd_kernel_mixed",
+        "start": 60,
+        "end": 77
+      },
+      {
+        "name": "_adj_kernel_mixed",
+        "start": 80,
+        "end": 109
+      },
+      {
+        "name": "gpu_fwd_mixed",
+        "start": 112,
+        "end": 125
+      },
+      {
+        "name": "gpu_adj_mixed",
+        "start": 128,
+        "end": 140
+      },
+      {
+        "name": "base_cfg",
+        "start": 155,
+        "end": 172
+      },
+      {
+        "name": "load_problem",
+        "start": 175,
+        "end": 191
+      },
+      {
+        "name": "cgls",
+        "start": 194,
+        "end": 277
+      },
+      {
+        "name": "plane_metrics",
+        "start": 280,
+        "end": 299
+      },
+      {
+        "name": "add_downsample_metadata",
+        "start": 302,
+        "end": 303
+      }
+    ]
+  }
+]
