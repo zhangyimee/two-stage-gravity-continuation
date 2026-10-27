@@ -1,0 +1,7 @@
+# Data availability and provenance
+
+Synthetic grids and historical synthetic outputs accompanying the manuscript are included. The eight-prism geometry is in src/twostage/model.py; independent analytic reference-field functions are in prism_truth.py. Original grid copies and their SHA-256 values are documented in provenance/file_sources.json. No data were regenerated during packaging.
+
+The optional Olympic Dam example requires processed gravity and terrain grids from the authors' archived research materials. Existing workspace notes identify SARIG/South Australian geological-survey resources as a provider entry point, but the exact dataset identifier/version, coordinate reference system and attribution/reuse terms have not been established. The author has approved sharing the local field materials, but confirmed that the original download link, data documentation and coordinate-system record are unavailable. These grids and field-derived grid outputs are held outside this initial code upload. No dataset identity, EPSG code, download URL or DOI has been inferred. Archived study summary JSON may include reported field metrics; it is not a substitute for field input data.
+
+The MIT License covers the research software. It does not grant or replace third-party field-data rights. This initial release contains reproducible synthetic input materials; full field reproduction requires the additional documented data release. A final submission availability statement must describe the actual state of that release accurately.
