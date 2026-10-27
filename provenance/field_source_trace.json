@@ -1,0 +1,101 @@
+{
+  "published_source_doi": "10.6038/cjg2024S0470",
+  "source_statement_pdf_page": 14,
+  "source_statement_printed_page": 3629,
+  "four_prior_files_byte_identical": {
+    "grv_regC06S02.grd": "bb0bcde5c34715833c8f464fb8dd51eb0fbbe7daac6cc3db393593b9b48cca02",
+    "grv_resC06S02.grd": "6dcd3f2528fd197e5ff6cd4c622678c4e4c39c8d466c74f55c1f68c3fd8453a7",
+    "od_dem.grd": "f6d0dbb74081e07aaf60d9f749e7226b99ee80d673b016f0ede137c78a439c7b",
+    "od_grv.grd": "01f89f398b64d2bc0c736c57e0e41a316acfcb9dd6d250abad25be502f76760e"
+  },
+  "matches": [
+    {
+      "file": "grv_regC06S02.grd",
+      "prior_path": "02  程序设计\\聚焦反演\\3DInversionGra1.35\\03 实际资料处理\\grv_regC06S02.grd",
+      "sha256": "bb0bcde5c34715833c8f464fb8dd51eb0fbbe7daac6cc3db393593b9b48cca02",
+      "byte_identical": true
+    },
+    {
+      "file": "grv_resC06S02.grd",
+      "prior_path": "02  程序设计\\聚焦反演\\3DInversionGra1.35\\03 实际资料处理\\grv_resC06S02.grd",
+      "sha256": "6dcd3f2528fd197e5ff6cd4c622678c4e4c39c8d466c74f55c1f68c3fd8453a7",
+      "byte_identical": true
+    },
+    {
+      "file": "grv_regC06S02.grd",
+      "prior_path": "03  图形制作\\202203-前期备份\\实际资料\\01 基础图件\\grv_regC06S02.grd",
+      "sha256": "bb0bcde5c34715833c8f464fb8dd51eb0fbbe7daac6cc3db393593b9b48cca02",
+      "byte_identical": true
+    },
+    {
+      "file": "grv_resC06S02.grd",
+      "prior_path": "03  图形制作\\202203-前期备份\\实际资料\\01 基础图件\\grv_resC06S02.grd",
+      "sha256": "6dcd3f2528fd197e5ff6cd4c622678c4e4c39c8d466c74f55c1f68c3fd8453a7",
+      "byte_identical": true
+    },
+    {
+      "file": "od_dem.grd",
+      "prior_path": "03  图形制作\\202203-前期备份\\实际资料\\01 基础图件\\od_dem.grd",
+      "sha256": "f6d0dbb74081e07aaf60d9f749e7226b99ee80d673b016f0ede137c78a439c7b",
+      "byte_identical": true
+    },
+    {
+      "file": "od_grv.grd",
+      "prior_path": "03  图形制作\\202203-前期备份\\实际资料\\01 基础图件\\od_grv.grd",
+      "sha256": "01f89f398b64d2bc0c736c57e0e41a316acfcb9dd6d250abad25be502f76760e",
+      "byte_identical": true
+    },
+    {
+      "file": "grv_regC06S02.grd",
+      "prior_path": "03  图形制作\\202203-前期备份\\实际资料\\01 基础图件\\基础数据\\实际资料（2022-03-16）\\grv_regC06S02.grd",
+      "sha256": "bb0bcde5c34715833c8f464fb8dd51eb0fbbe7daac6cc3db393593b9b48cca02",
+      "byte_identical": true
+    },
+    {
+      "file": "grv_resC06S02.grd",
+      "prior_path": "03  图形制作\\202203-前期备份\\实际资料\\01 基础图件\\基础数据\\实际资料（2022-03-16）\\grv_resC06S02.grd",
+      "sha256": "6dcd3f2528fd197e5ff6cd4c622678c4e4c39c8d466c74f55c1f68c3fd8453a7",
+      "byte_identical": true
+    },
+    {
+      "file": "od_dem.grd",
+      "prior_path": "03  图形制作\\202203-前期备份\\实际资料\\01 基础图件\\基础数据\\实际资料（2022-03-16）\\od_dem.grd",
+      "sha256": "f6d0dbb74081e07aaf60d9f749e7226b99ee80d673b016f0ede137c78a439c7b",
+      "byte_identical": true
+    },
+    {
+      "file": "od_grv.grd",
+      "prior_path": "03  图形制作\\202203-前期备份\\实际资料\\01 基础图件\\基础数据\\实际资料（2022-03-16）\\od_grv.grd",
+      "sha256": "01f89f398b64d2bc0c736c57e0e41a316acfcb9dd6d250abad25be502f76760e",
+      "byte_identical": true
+    },
+    {
+      "file": "grv_regC06S02.grd",
+      "prior_path": "03  图形制作\\202203-前期备份\\实际资料\\02 反演\\01 聚焦反演（前期）\\grv_regC06S02.grd",
+      "sha256": "bb0bcde5c34715833c8f464fb8dd51eb0fbbe7daac6cc3db393593b9b48cca02",
+      "byte_identical": true
+    },
+    {
+      "file": "grv_resC06S02.grd",
+      "prior_path": "03  图形制作\\202203-前期备份\\实际资料\\02 反演\\01 聚焦反演（前期）\\grv_resC06S02.grd",
+      "sha256": "6dcd3f2528fd197e5ff6cd4c622678c4e4c39c8d466c74f55c1f68c3fd8453a7",
+      "byte_identical": true
+    },
+    {
+      "file": "grv_resC06S02.grd",
+      "prior_path": "03  图形制作\\202203-前期备份\\实际资料\\02 反演\\02 聚焦反演\\grv_resC06S02.grd",
+      "sha256": "6dcd3f2528fd197e5ff6cd4c622678c4e4c39c8d466c74f55c1f68c3fd8453a7",
+      "byte_identical": true
+    },
+    {
+      "file": "grv_resC06S02.grd",
+      "prior_path": "03  图形制作\\实际资料处理\\拟合重力异常\\grv_resC06S02.grd",
+      "sha256": "6dcd3f2528fd197e5ff6cd4c622678c4e4c39c8d466c74f55c1f68c3fd8453a7",
+      "byte_identical": true
+    }
+  ],
+  "original_product_version_confirmed": false,
+  "historical_datum_confirmed": false,
+  "current_portal_pixels_compared": false,
+  "experiments_rerun": false
+}

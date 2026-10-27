@@ -1,9 +1,4 @@
 {
-  "core_sources_identical": true,
-  "experiments_executed": false,
-  "external_upload_performed": false,
-  "python_files": 6,
-  "grids": 50,
   "files": [
     {
       "file": ".gitignore",
@@ -14,6 +9,76 @@
       "file": "CHANGELOG.md",
       "bytes": 712,
       "sha256": "a898239e1d217c85a69df54b8fd81b35e5a6dea493dff914ec65fb0cf92da821"
+    },
+    {
+      "file": "DATA_AVAILABILITY.md",
+      "bytes": 1198,
+      "sha256": "bcfd84e429af96c441d1ebbb213b2e2ce3dd89b7bf3fabd76e5d8ca25f9daa10"
+    },
+    {
+      "file": "FIELD_DATA_PROVENANCE.md",
+      "bytes": 5257,
+      "sha256": "0a149600baa9c8f2c8df71ee951f35fe7cc6a911d830fcc434bd92181069c029"
+    },
+    {
+      "file": "LICENSE",
+      "bytes": 1084,
+      "sha256": "86f542ff5302db5797465f2af3dd40cf0d5c03419648609f35083e8e96a6de16"
+    },
+    {
+      "file": "README.md",
+      "bytes": 5663,
+      "sha256": "b0e085b7a2cfcaa896f6ba1a4036b1af60eff576b0bddd6b1104784284c71a62"
+    },
+    {
+      "file": "TUTORIAL.md",
+      "bytes": 2587,
+      "sha256": "25ede1fd7f3cfdd63634fa61666864d17b0d7842fb0d8b909ec5d9ad2a190f91"
+    },
+    {
+      "file": "USER_GUIDE.md",
+      "bytes": 3004,
+      "sha256": "8d2dc4bed3d409dd47690f42d5a6cd5f7f1d6a1f2704cabde69fa5e964e06b5a"
+    },
+    {
+      "file": "data/field_local/od_bouguer.grd",
+      "bytes": 131756,
+      "sha256": "606a15cdb809a13f71ae2dd5a9e0954cbfbf59d32425bbdd16f483fb1b669eea"
+    },
+    {
+      "file": "data/field_local/od_regional.grd",
+      "bytes": 144922,
+      "sha256": "bb0bcde5c34715833c8f464fb8dd51eb0fbbe7daac6cc3db393593b9b48cca02"
+    },
+    {
+      "file": "data/field_local/od_residual.grd",
+      "bytes": 144920,
+      "sha256": "6dcd3f2528fd197e5ff6cd4c622678c4e4c39c8d466c74f55c1f68c3fd8453a7"
+    },
+    {
+      "file": "data/field_local/od_terrain.grd",
+      "bytes": 122361,
+      "sha256": "a40deaa2da4403eaba448bcbb2cbbf2166655c44aaf26916cc496afe1043d1d9"
+    },
+    {
+      "file": "data/field_local/source_grids/grv_regC06S02.grd",
+      "bytes": 144922,
+      "sha256": "bb0bcde5c34715833c8f464fb8dd51eb0fbbe7daac6cc3db393593b9b48cca02"
+    },
+    {
+      "file": "data/field_local/source_grids/grv_resC06S02.grd",
+      "bytes": 144920,
+      "sha256": "6dcd3f2528fd197e5ff6cd4c622678c4e4c39c8d466c74f55c1f68c3fd8453a7"
+    },
+    {
+      "file": "data/field_local/source_grids/od_dem.grd",
+      "bytes": 46219,
+      "sha256": "f6d0dbb74081e07aaf60d9f749e7226b99ee80d673b016f0ede137c78a439c7b"
+    },
+    {
+      "file": "data/field_local/source_grids/od_grv.grd",
+      "bytes": 66762,
+      "sha256": "01f89f398b64d2bc0c736c57e0e41a316acfcb9dd6d250abad25be502f76760e"
     },
     {
       "file": "data/synthetic/obs_noise_seed100.grd",
@@ -91,14 +156,14 @@
       "sha256": "7f2f1b928477ca9929eca0f48388112d390602176dd00292551381727ac8e874"
     },
     {
-      "file": "DATA_AVAILABILITY.md",
-      "bytes": 1546,
-      "sha256": "cb6ba886eedd6c96567f0478417a5e5930a2b42cb24dbf5e39b8839876f5088c"
+      "file": "provenance/field_files_sha256.json",
+      "bytes": 2462,
+      "sha256": "3eca2d3ae908eff78d4e7203396d78d4f3e982fc8607446f56ccd9f54eeea4f7"
     },
     {
-      "file": "LICENSE",
-      "bytes": 1084,
-      "sha256": "86f542ff5302db5797465f2af3dd40cf0d5c03419648609f35083e8e96a6de16"
+      "file": "provenance/field_source_trace.json",
+      "bytes": 4790,
+      "sha256": "e084f5c54d248b83ec01af15ddc13042c34a78cbdd6c8ef869f3bfa28d2bba2a"
     },
     {
       "file": "provenance/file_sources.json",
@@ -109,11 +174,6 @@
       "file": "provenance/source_functions.json",
       "bytes": 2890,
       "sha256": "8f84edbe19cca531d99f984bd4b88a9bb7b6acfc0cc4412e8a7cd72cb37a5555"
-    },
-    {
-      "file": "README.md",
-      "bytes": 5429,
-      "sha256": "3cbbf88013bba3ef7ecf43e55265fad80873ce1c4305423ebbc43aec4f7c04b7"
     },
     {
       "file": "reference_results/manuscript/clean_observed.grd",
@@ -291,6 +351,36 @@
       "sha256": "9df1a1252fad64cce7fb194061a1a97b3e92334ccc52b6bc2bb4b2ab90dde4c5"
     },
     {
+      "file": "reference_results/manuscript/real_single_elev_00m.grd",
+      "bytes": 127639,
+      "sha256": "60fdc606b593ab6674f8201300250d1d2e2e2cd9934db00fd2b89075f9266516"
+    },
+    {
+      "file": "reference_results/manuscript/real_single_elev_20m.grd",
+      "bytes": 127635,
+      "sha256": "cc45ca21f68e726bb4c828e431ced6baaeb5dcfcb574ef866369649494615a21"
+    },
+    {
+      "file": "reference_results/manuscript/real_single_elev_40m.grd",
+      "bytes": 127637,
+      "sha256": "21264c3d81fec8ad5105ff35472446c2b7adba5a90d1b7e79588a81ba17b1f70"
+    },
+    {
+      "file": "reference_results/manuscript/real_single_elev_60m.grd",
+      "bytes": 127657,
+      "sha256": "234d7782304c0a1410e98c2a3d74c2ec047710730628e5194bb56c82155728a2"
+    },
+    {
+      "file": "reference_results/manuscript/real_single_fit.grd",
+      "bytes": 127659,
+      "sha256": "fc398f875c420510f50c6be37905bd039fb8651b72ac47205af24f0ca902e929"
+    },
+    {
+      "file": "reference_results/manuscript/real_single_residual.grd",
+      "bytes": 127076,
+      "sha256": "b2a46915c03841f8b286051c881167b6d9ec844fda6ad98b476f5b6f21baf75b"
+    },
+    {
       "file": "reference_results/manuscript/single_layer_full.json",
       "bytes": 56385,
       "sha256": "19625b1f48e8be3816e79f75c79367edfb34f6e1507bd3f496389d60cc8b1ac3"
@@ -334,16 +424,10 @@
       "file": "src/twostage/solver.py",
       "bytes": 8887,
       "sha256": "ecf4b622be5ecb620ea8951f29a004b82e62fd977b6dbeb9ec59577d7974d47f"
-    },
-    {
-      "file": "TUTORIAL.md",
-      "bytes": 2587,
-      "sha256": "25ede1fd7f3cfdd63634fa61666864d17b0d7842fb0d8b909ec5d9ad2a190f91"
-    },
-    {
-      "file": "USER_GUIDE.md",
-      "bytes": 3004,
-      "sha256": "8d2dc4bed3d409dd47690f42d5a6cd5f7f1d6a1f2704cabde69fa5e964e06b5a"
     }
-  ]
+  ],
+  "experiments_executed": false,
+  "external_upload_performed": false,
+  "field_source_trace": "FIELD_DATA_PROVENANCE.md",
+  "data_license": "Original rights retained; software MIT does not apply to third-party field files."
 }

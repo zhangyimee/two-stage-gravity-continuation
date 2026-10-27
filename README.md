@@ -47,7 +47,7 @@ python run_examples.py depth-scan
 
 Each command creates a new folder under `outputs/`. Existing output folders are refused. See the tutorial for protocols and expected historical results. No experiments were run while preparing this public package; static checks do not establish numerical reproduction.
 
-The optional `field` command uses archived processed Olympic Dam grids. These third-party field inputs and field-derived grids are held outside this initial upload folder while exact attribution and reuse terms are completed. See `DATA_AVAILABILITY.md`. Until those files are added, `field` and `all` stop with an explanatory error. This initial package therefore supports the synthetic examples, not the complete field-data reproduction.
+The `field` command uses archived processed Olympic Dam grids under `data/field_local`; `python run_examples.py field` runs this example after those files are present. The four earlier-study source grids are byte-identical to the files retained in the published study of Zhang et al. (2025), https://doi.org/10.6038/cjg2024S0470, which identifies SARIG as the Bouguer gravity source. See `FIELD_DATA_PROVENANCE.md` for the exact source chain, input descriptions, provider attribution and retained metadata limitations. This package starts from archived processed grids; it does not claim to reconstruct the original portal download or historical regional-field separation.
 
 ## Scientific and timing conventions
 
